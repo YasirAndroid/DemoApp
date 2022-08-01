@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="home">Home</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="collection">Collection</string>
+    <string name="profile">Profile</string>
+    <string name="scan">Scan</string>
+    <string name="available_to_buy">Available To Buy</string>
+    <string name="see_all"><u>See all</u></string>
+</resources>
